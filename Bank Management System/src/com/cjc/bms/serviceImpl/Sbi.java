@@ -25,7 +25,7 @@ Scanner sc=new Scanner(System.in);
 	a.setGender(sc.next());
 	System.out.println("Enter the Age");
 	a.setAge(sc.nextInt());
-	System.out.println("Enter the Balace");
+	System.out.println("Enter the Balance");
 	a.setBalance(sc.nextDouble());
 	}
 
